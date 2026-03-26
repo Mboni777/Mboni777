@@ -17,7 +17,7 @@ I develop digital learning platforms, engineering tools, and youth‑focused ini
 ## 🌍 About My Work
 
 ### **GTech SkillsHub**
-GTech SkillsHub is a student‑led initiative founded in 2025 to empower refugee and underserved youth around the Mahama Refugee Camp through access to essential digital and professional skills.
+GTech SkillsHub is a student‑led initiative founded in 2025 to empower refugee and underserved youth in Rwanda through access to essential digital and professional skills.
 
 The program follows a six‑month blended learning model combining in‑person training, mentorship, and digital resources.  
 Learners gain:
@@ -78,7 +78,7 @@ ElevateGTech extends the impact of GTech SkillsHub by ensuring learners continue
 - Proteus  
 - TinkerCAD  
 - Sensors & Microcontrollers  
-- Circuit design (analog & digital)  
+- Circuit design (analogue & digital)  
 
 ---
 
