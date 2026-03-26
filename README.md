@@ -6,7 +6,7 @@
 <h3 align="center">Computer Engineering Student • Tech Innovator • Youth Empowerment Advocate</h3>
 
 <p align="center">
-I build engineering solutions, digital empowerment tools, and STEM education platforms that expand opportunities for underserved youth across Africa.
+I build engineering solutions, digital empowerment tools, and educational platforms that expand opportunities for underserved youth across Africa.
 </p>
 
 ---
