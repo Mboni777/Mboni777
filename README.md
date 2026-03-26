@@ -6,16 +6,12 @@
 <h3 align="center">Gtech SkillsHub Co-Founder | Computer Engineering Student | Youth Empowerment Advocate</h3>
 
 <p align="center">
-I build engineering solutions, digital empowerment tools, and modern education platforms that expand opportunities for underserved youth across Africa.
-</p>
-
----
+I build practical engineering tools, digital empowerment programs, and modern learning platforms that expand opportunities for underserved youth—especially those in and around Mahama Refugee Camp.
 
 ## 🚀 Mission
-Building accessible technology and STEM learning systems that empower young people across Africa.
+Empowering young people through accessible technology, digital skills training, and long‑term opportunity pathways.
 
-I develop digital platforms, engineering tools, and youth-focused initiatives that create pathways to education, innovation, and global opportunities.
-
+I develop digital learning platforms, engineering tools, and youth‑focused initiatives that create practical pathways to education, innovation, and global opportunities. My work through GTech SkillsHub and ElevateGTech ensures that underserved learners gain not only foundational skills but also mentorship, guidance, and continued access to opportunities beyond initial training.
 ---
 
 ## 🌍 About My Work
