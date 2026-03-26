@@ -21,18 +21,33 @@ I develop digital platforms, engineering tools, and youth-focused initiatives th
 ## 🌍 About My Work
 
 ### **GTech SkillsHub**
-A digital empowerment initiative teaching youth essential tech and STEM skills.
+GTech SkillsHub is a student‑led initiative founded in 2025 to empower refugee and underserved youth around the Mahama Refugee Camp through access to essential digital and professional skills.
 
-### **ElevateGTech**
-A learning platform offering accessible resources, STEM tools, and academic/career guidance.
+The program follows a six‑month blended learning model combining in‑person training, mentorship, and digital resources.  
+Learners gain:
 
-### **Engineering Projects**
-- Water level detection system  
-- Logic circuit simulators  
-- Java and Python academic projects  
-- Hands-on circuit/electronics prototyping  
+- Digital literacy  
+- Python programming  
+- Ethical and responsible AI awareness  
+- Career readiness & employability skills  
+- Mentorship and long‑term guidance  
+
+GTech SkillsHub is designed to open opportunities for youth who often lack access to structured digital education and learning pathways.
 
 ---
+
+### **ElevateGTech**
+ElevateGTech is a digital platform currently being developed to support GTech SkillsHub graduates by connecting them with ongoing opportunities for growth and advancement.
+
+The platform provides access to:
+
+- Scholarships  
+- Internships  
+- Global opportunities  
+- Insights into emerging technologies  
+
+ElevateGTech extends the impact of GTech SkillsHub by ensuring learners continue receiving guidance, opportunities, and exposure long after the initial training period.
+
 
 #  🛠️ Tech Stack
 
