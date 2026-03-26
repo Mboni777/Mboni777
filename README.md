@@ -11,7 +11,7 @@ I build practical engineering tools, digital empowerment programs, and modern le
 ## 🚀 Mission
 Empowering young people through accessible technology, digital skills training, and long‑term opportunity pathways.
 
-###I develop digital learning platforms, engineering tools, and youth‑focused initiatives that create practical pathways to education, innovation, and global opportunities. My work through GTech SkillsHub and ElevateGTech ensures that underserved learners gain not only foundational skills but also mentorship, guidance, and continued access to opportunities beyond initial training.###
+I develop digital learning platforms, engineering tools, and youth‑focused initiatives that create practical pathways to education, innovation, and global opportunities. My work through GTech SkillsHub and ElevateGTech ensures that underserved learners gain not only foundational skills but also mentorship, guidance, and continued access to opportunities beyond initial training.
 ---
 
 ## 🌍 About My Work
