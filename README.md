@@ -103,43 +103,18 @@ ElevateGTech extends the impact of GTech SkillsHub by ensuring learners continue
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mboni777&show_icons=true&yle="display: flex; gap: 10px; flex-wrap: wrap;">
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/gervaismboninkunda" target="_blank" style="text-decoration:none;">
-    <span style="background:#6c757d;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">LINKEDIN</span>
-  </a>
+  
+## 🌐 Connect With Me
 
-  <a href="https://www.linkedin.com/in/gervaismboninkunda" target="_blank" style="text-decoration:none;">
-    <span style="background:#0d6efd;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">CONNECT</span>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gervaismboninkunda)
 
-  <!-- Email -->
-  <a href="mailto:mboninkundawelcome@gmail.com" style="text-decoration:none;">
-    <span style="background:#dc3545;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">EMAIL</span>
-  </a>
+https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](mailto:mboninkundawelcome@gmail.com)
 
-  <a href="mailto:mboninkundawelcome@gmail.com" style="text-decoration:none;">
-    <span style="background:#bd2130;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">CONTACT</span>
-  </a>
+https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/gervais_mboninkunda/)
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/gervais_mboninkunda/" target="_blank" style="text-decoration:none;">
-    <span style="background:#e84393;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">INSTAGRAM</span>
-  </a>
+[![Website](https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-link-here.com)
 
-  <!-- Website placeholder -->
-  <a href="https://your-website-link-here.com" target="_blank" style="text-decoration:none;">
-    <span style="background:#2d98da;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">WEBSITE</span>
-  </a>
-
-  <a href="https://your-website-link-here.com" target="_blank" style="text-decoration:none;">
-    <span style="background:black;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">VISIT</span>
-  </a>
-
-</div>
-
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=Mboni777&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=Mboni777&color=0e75b6)
 
 ---
 
