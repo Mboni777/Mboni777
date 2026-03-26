@@ -108,9 +108,9 @@ ElevateGTech extends the impact of GTech SkillsHub by ensuring learners continue
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gervaismboninkunda)
 
-https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](mailto:mboninkundawelcome@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mboninkundawelcome@gmail.com)
 
-https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/gervais_mboninkunda/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gervais_mboninkunda/)
 
 [![Website](https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-link-here.com)
 
