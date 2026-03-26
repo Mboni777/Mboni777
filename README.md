@@ -1,17 +1,20 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:2ecc71&height=250&section=header&text=Gervais%20Mboninkunda&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Gtech SkillsHub Co-Founder | Computer Engineering Student | Youth Empowerment Advocate</h3>
+<h3 align="center">GTech SkillsHub Co-Founder | Computer Engineering Student | Youth Empowerment Advocate</h3>
 
 <p align="center">
-I build practical engineering tools, digital empowerment programs, and modern learning platforms that expand opportunities for underserved youth.
+I build practical engineering tools, digital empowerment programs, and modern learning platforms that expand opportunities for underserved youth—especially in and around Mahama Refugee Camp.
+</p>
+
+---
 
 ## 🚀 Mission
 Empowering young people through accessible technology, digital skills training, and long‑term opportunity pathways.
 
 I develop digital learning platforms, engineering tools, and youth‑focused initiatives that create practical pathways to education, innovation, and global opportunities. My work through GTech SkillsHub and ElevateGTech ensures that underserved learners gain not only foundational skills but also mentorship, guidance, and continued access to opportunities beyond initial training.
+
 ---
 
 ## 🌍 About My Work
@@ -19,8 +22,7 @@ I develop digital learning platforms, engineering tools, and youth‑focused ini
 ### **GTech SkillsHub**
 GTech SkillsHub is a student‑led initiative founded in 2025 to empower refugee and underserved youth in Rwanda through access to essential digital and professional skills.
 
-The program follows a six‑month blended learning model combining in‑person training, mentorship, and digital resources.  
-Learners gain:
+The program follows a six‑month blended learning model combining in‑person training, mentorship, and digital resources. Learners gain:
 
 - Digital literacy  
 - Python programming  
@@ -33,7 +35,7 @@ GTech SkillsHub is designed to open opportunities for youth who often lack acces
 ---
 
 ### **ElevateGTech**
-ElevateGTech is a digital platform currently being developed to support GTech SkillsHub graduates by connecting them with ongoing opportunities for growth and advancement.
+ElevateGTech is a digital platform being developed to support GTech SkillsHub graduates by connecting them with ongoing opportunities for growth and advancement.
 
 The platform provides access to:
 
@@ -44,8 +46,9 @@ The platform provides access to:
 
 ElevateGTech extends the impact of GTech SkillsHub by ensuring learners continue receiving guidance, opportunities, and exposure long after the initial training period.
 
+---
 
-#  🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ## **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -61,7 +64,6 @@ ElevateGTech extends the impact of GTech SkillsHub by ensuring learners continue
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005CFF?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
-
 
 ![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -84,7 +86,6 @@ ElevateGTech extends the impact of GTech SkillsHub by ensuring learners continue
 
 ## **Cloud & DevOps**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -97,29 +98,10 @@ ElevateGTech extends the impact of GTech SkillsHub by ensuring learners continue
 
 ---
 
-#  📊 GitHub Stats & Activity
+# 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mboni777&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mboni777&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mboni777" />
-</p>
-
----
-
-
-
-
-
-## 🌐 Connect With Me
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mboni777&show_icons=true&yle="display: flex; gap: 10px; flex-wrap: wrap;">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/gervaismboninkunda" target="_blank" style="text-decoration:none;">
@@ -144,7 +126,7 @@ ElevateGTech extends the impact of GTech SkillsHub by ensuring learners continue
     <span style="background:#e84393;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">INSTAGRAM</span>
   </a>
 
-  <!-- Website (placeholder — you will give me the link later) -->
+  <!-- Website placeholder -->
   <a href="https://your-website-link-here.com" target="_blank" style="text-decoration:none;">
     <span style="background:#2d98da;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">WEBSITE</span>
   </a>
@@ -157,9 +139,7 @@ ElevateGTech extends the impact of GTech SkillsHub by ensuring learners continue
 
 <br>
 
-<!-- Profile view counter -->
 ![Profile views](https://komarev.com/ghpvc/?username=Mboni777&color=0e75b6)
-``
 
 ---
 
