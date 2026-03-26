@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:2ecc71&height=250&section=header&text=Gervais%20Mboninkunda&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Computer Engineering Student • Tech Innovator • Youth Empowerment Advocate</h3>
+<h3 align="center"> Gtech SkillsHub Co-Founder | Computer Engineering Student | Youth Empowerment Advocate</h3>
 
 <p align="center">
 I build engineering solutions, digital empowerment tools, and educational platforms that expand opportunities for underserved youth across Africa.
