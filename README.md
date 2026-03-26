@@ -1,152 +1,134 @@
-<h1 align="center">👋 Hi, I’m Gervais Mboninkunda</h1>
-
+<!-- ✅ TOP BANNER -->
 <p align="center">
-Computer Engineering Student | Tech Innovator | Youth Empowerment Advocate
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:2ecc71&height=250&section=header&text=Gervais%20Mboninkunda&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<h3 align="center">Computer Engineering Student • Tech Innovator • Youth Empowerment Advocate</h3>
+
 <p align="center">
-I build practical engineering tools, digital learning platforms, and youth‑focused technology initiatives that expand access to skills and opportunities across Africa.  
-Through <strong>GTech SkillsHub</strong> and <strong>ElevateGTech</strong>, I help students gain digital skills, engineering fundamentals, and academic support.
+I build engineering solutions, digital empowerment tools, and STEM education platforms that expand opportunities for underserved youth across Africa.
 </p>
 
 ---
 
-# 🚀 Mission
-Creating accessible technology and learning systems that empower youth—especially in underserved communities.
+## ✅ 🚀 Mission
+Building accessible technology and STEM learning systems that empower young people across Africa.
 
-I believe that when young people gain access to digital tools, engineering knowledge, and structured learning support, they unlock pathways to innovation and opportunity.
+I develop digital platforms, engineering tools, and youth-focused initiatives that create pathways to education, innovation, and global opportunities.
 
 ---
 
-# 🌍 About My Work
+## ✅ 🌍 About My Work
 
 ### **GTech SkillsHub**
-A youth‑centered initiative that provides digital skills training, computer literacy education, and academic support.
+A digital empowerment initiative teaching youth essential tech and STEM skills.
 
 ### **ElevateGTech**
-A platform offering learning resources, engineering tools, and practical guidance for student success.
+A learning platform offering accessible resources, STEM tools, and academic/career guidance.
 
-### **Engineering & Academic Projects**
-- Water Level Detection System  
-- Logic Circuit Simulator (Konva.js / JavaScript)  
-- Premier League App (Java)  
-- TestBankAccount (Java OOP)  
-- Morocco CO₂ Emission Analysis (Python)  
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Languages  
-<span style="background:#375a7f;color:white;padding:5px 10px;border-radius:5px;">Python • ADVANCED</span>
-<span style="background:#ff9f43;color:white;padding:5px 10px;border-radius:5px;">Java • ADVANCED</span>
-<span style="background:#1dd1a1;color:white;padding:5px 10px;border-radius:5px;">C++ • ADVANCED</span>
-<span style="background:#48dbfb;color:black;padding:5px 10px;border-radius:5px;">MATLAB • ADVANCED</span>
-<span style="background:#8395a7;color:white;padding:5px 10px;border-radius:5px;">SQL • ADVANCED</span>
+### **Engineering Projects**
+- Water level detection system  
+- Logic circuit simulators  
+- Java and Python academic projects  
+- Hands-on circuit/electronics prototyping  
 
 ---
 
-## ⚙️ Frameworks & Tools  
-<span style="background:#2e86de;color:white;padding:5px 10px;border-radius:5px;">NumPy • INTERMEDIATE</span>
-<span style="background:#5f27cd;color:white;padding:5px 10px;border-radius:5px;">Pandas • INTERMEDIATE</span>
-<span style="background:#10ac84;color:white;padding:5px 10px;border-radius:5px;">Matplotlib • INTERMEDIATE</span>
-<span style="background:#1abc9c;color:white;padding:5px 10px;border-radius:5px;">Seaborn • INTERMEDIATE</span>
+# ✅ 🛠️ Tech Stack
 
-<span style="background:#222;color:white;padding:5px 10px;border-radius:5px;">Flask • BEGINNER</span>
-<span style="background:#3d3d3d;color:white;padding:5px 10px;border-radius:5px;">Node.js • BEGINNER</span>
-<span style="background:#6c5ce7;color:white;padding:5px 10px;border-radius:5px;">PyTest • BEGINNER</span>
-
-<span style="background:#006266;color:white;padding:5px 10px;border-radius:5px;">LaTeX • ADVANCED</span>
-<span style="background:#009432;color:white;padding:5px 10px;border-radius:5px;">Overleaf • ADVANCED</span>
-<span style="background:#feca57;color:black;padding:5px 10px;border-radius:5px;">Konva.js • INTERMEDIATE</span>
+## **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🔌 Embedded Systems & Electronics  
-<span style="background:#0097e6;color:white;padding:5px 10px;border-radius:5px;">Arduino • ADVANCED</span>
-<span style="background:#487eb0;color:white;padding:5px 10px;border-radius:5px;">Proteus • INTERMEDIATE</span>
-<span style="background:#ffa502;color:white;padding:5px 10px;border-radius:5px;">TinkerCAD • INTERMEDIATE</span>
-<span style="background:#2f3542;color:white;padding:5px 10px;border-radius:5px;">Microcontrollers • INTERMEDIATE</span>
-<span style="background:#a4b0be;padding:5px 10px;border-radius:5px;">Circuit Design • ADVANCED</span>
+## **Frameworks & Tools**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005CFF?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
+
+<!-- ✅ Imported from Eddy -->
+![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+![Konva.js](https://img.shields.io/badge/Konva.js-68A063?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
-## ☁️ Cloud & DevOps  
-<span style="background:#0fbcf9;color:white;padding:5px 10px;border-radius:5px;">GitHub Actions • INTERMEDIATE</span>
-<span style="background:#ff793f;color:white;padding:5px 10px;border-radius:5px;">Google Cloud • BEGINNER</span>
-<span style="background:#ffa801;color:black;padding:5px 10px;border-radius:5px;">Firebase • BEGINNER</span>
-<span style="background:#1e90ff;color:white;padding:5px 10px;border-radius:5px;">Docker • BEGINNER</span>
+## **Embedded Systems & Electronics**
+- Arduino  
+- Proteus  
+- TinkerCAD  
+- Sensors & Microcontrollers  
+- Circuit design (analog & digital)  
 
 ---
 
-## 🗄 Databases  
-<span style="background:#3742fa;color:white;padding:5px 10px;border-radius:5px;">PostgreSQL • BEGINNER</span>
-<span style="background:#2f3542;color:white;padding:5px 10px;border-radius:5px;">SQLite • BEGINNER</span>
+## **Cloud & DevOps**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<!-- ✅ Imported from Eddy -->
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-# 🎯 Specializations  
-REST Fundamentals • Digital Literacy • Educational Technology • Data Analysis • Circuit Design • Platform Development • Engineering Support
+## **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-# 📊 GitHub Activity & Stats
+# ✅ 📊 GitHub Stats & Activity
 
-### ✅ GitHub Stats
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mboni777&show_icons=true&theme=default" />
 </p>
 
-### ✅ Top Languages
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mboni777&layout=compact" />
 </p>
 
-### ✅ GitHub Streak
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mboni777" />
 </p>
 
 ---
 
-# 🔍 Current Focus
-- Expanding GTech SkillsHub initiatives  
-- Developing accessible digital-learning tools  
-- Improving engineering + academic project structures  
-- Supporting students through technology-based learning  
+# ✅ 📌 Featured Projects
+
+### ✅ Morocco CO₂ Emission Analysis (Python)
+### ✅ Logic Circuit Simulator (JavaScript)
+### ✅ Ashesi Health Kiosk Lab  
+### ✅ Premier League App (Java)
+### ✅ TestBankAccount (Java)
+### ✅ Interactive Logic Circuits Simulator  
 
 ---
 
-# 🌍 Impact & Leadership  
-✔ Helping students access digital learning  
-✔ Building educational tools for youth  
-✔ Supporting underserved communities with technology  
-✔ Creating systems that enable meaningful learning  
+# ✅ 🤝 Open to Collaboration In
+- Tech & STEM education  
+- Community impact initiatives  
+- Engineering & digital projects  
+- Open-source work  
+- Youth empowerment  
 
 ---
 
-# 🤝 Open to Collaboration  
-- Digital learning platforms  
-- Tech & education programs  
-- Engineering-focused projects  
-- Open-source tools  
-- Youth empowerment initiatives  
+# ✅ 🔗 Connect With Me
 
----
-
-# 🌐 Connect With Me  
 **LinkedIn:** www.linkedin.com/in/gervaismboninkunda  
 **Email:** mboninkundawelcome@gmail.com  
 
 ---
 
-# 📌 Pinned  
-✅ Morocco CO₂ Emission Analysis  
-✅ Logic Circuit Simulator  
-✅ Ashesi Health Kiosk Lab  
-✅ Premier League App  
-✅ TestBankAccount  
-✅ Interactive Logic Circuits Simulator  
-
-*(Make sure to pin them manually from your GitHub profile.)*
-``
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:1abc9c&height=150&section=footer" />
+</p>
