@@ -12,7 +12,7 @@ I build engineering solutions, digital empowerment tools, and educational platfo
 ---
 
 ##  🚀 Mission
-Building accessible technology and STEM learning systems that empower young people across Africa.
+Building accessible technology and modern learning systems that empower young people across Africa.
 
 I develop digital platforms, engineering tools, and youth-focused initiatives that create pathways to education, innovation, and global opportunities.
 
