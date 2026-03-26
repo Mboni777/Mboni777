@@ -117,10 +117,49 @@ ElevateGTech extends the impact of GTech SkillsHub by ensuring learners continue
 
 
 
-#  🔗 Connect With Me
+## 🌐 Connect With Me
 
-**LinkedIn:** www.linkedin.com/in/gervaismboninkunda  
-**Email:** mboninkundawelcome@gmail.com  
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gervaismboninkunda" target="_blank" style="text-decoration:none;">
+    <span style="background:#6c757d;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">LINKEDIN</span>
+  </a>
+
+  <a href="https://www.linkedin.com/in/gervaismboninkunda" target="_blank" style="text-decoration:none;">
+    <span style="background:#0d6efd;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">CONNECT</span>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:mboninkundawelcome@gmail.com" style="text-decoration:none;">
+    <span style="background:#dc3545;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">EMAIL</span>
+  </a>
+
+  <a href="mailto:mboninkundawelcome@gmail.com" style="text-decoration:none;">
+    <span style="background:#bd2130;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">CONTACT</span>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/gervais_mboninkunda/" target="_blank" style="text-decoration:none;">
+    <span style="background:#e84393;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">INSTAGRAM</span>
+  </a>
+
+  <!-- Website (placeholder — you will give me the link later) -->
+  <a href="https://your-website-link-here.com" target="_blank" style="text-decoration:none;">
+    <span style="background:#2d98da;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">WEBSITE</span>
+  </a>
+
+  <a href="https://your-website-link-here.com" target="_blank" style="text-decoration:none;">
+    <span style="background:black;color:white;padding:8px 15px;border-radius:5px;font-weight:bold;">VISIT</span>
+  </a>
+
+</div>
+
+<br>
+
+<!-- Profile view counter -->
+![Profile views](https://komarev.com/ghpvc/?username=Mboni777&color=0e75b6)
+``
 
 ---
 
