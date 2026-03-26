@@ -21,18 +21,14 @@ I develop digital platforms, engineering tools, and youth-focused initiatives th
 ## 🌍 About My Work
 
 ### **GTech SkillsHub**
-A digital empowerment initiative teaching youth essential tech and STEM skills.
+A digital empowerment initiative teaching youth essential tech and professional skills.
 
 ### **ElevateGTech**
-A learning platform offering accessible resources, STEM tools, and academic/career guidance.
+A learning platform offering accessible resources, scholarship application tools, and academic/career guidance.
 
-### **Engineering Projects**
-- Water level detection system  
-- Logic circuit simulators  
-- Java and Python academic projects  
-- Hands-on circuit/electronics prototyping  
+ Hands-on circuit/electronics prototyping  
 
----
+
 
 #  🛠️ Tech Stack
 
