@@ -1,4 +1,4 @@
-<!-- ✅ TOP BANNER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:2ecc71&height=250&section=header&text=Gervais%20Mboninkunda&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -11,14 +11,14 @@ I build engineering solutions, digital empowerment tools, and STEM education pla
 
 ---
 
-## ✅ 🚀 Mission
+##  🚀 Mission
 Building accessible technology and STEM learning systems that empower young people across Africa.
 
 I develop digital platforms, engineering tools, and youth-focused initiatives that create pathways to education, innovation, and global opportunities.
 
 ---
 
-## ✅ 🌍 About My Work
+## 🌍 About My Work
 
 ### **GTech SkillsHub**
 A digital empowerment initiative teaching youth essential tech and STEM skills.
@@ -34,7 +34,7 @@ A learning platform offering accessible resources, STEM tools, and academic/care
 
 ---
 
-# ✅ 🛠️ Tech Stack
+#  🛠️ Tech Stack
 
 ## **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,7 +51,7 @@ A learning platform offering accessible resources, STEM tools, and academic/care
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005CFF?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
 
-<!-- ✅ Imported from Eddy -->
+
 ![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -73,7 +73,7 @@ A learning platform offering accessible resources, STEM tools, and academic/care
 
 ## **Cloud & DevOps**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-<!-- ✅ Imported from Eddy -->
+
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -86,7 +86,7 @@ A learning platform offering accessible resources, STEM tools, and academic/care
 
 ---
 
-# ✅ 📊 GitHub Stats & Activity
+#  📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mboni777&show_icons=true&theme=default" />
@@ -100,20 +100,9 @@ A learning platform offering accessible resources, STEM tools, and academic/care
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mboni777" />
 </p>
 
----
 
-# ✅ 📌 Featured Projects
 
-### ✅ Morocco CO₂ Emission Analysis (Python)
-### ✅ Logic Circuit Simulator (JavaScript)
-### ✅ Ashesi Health Kiosk Lab  
-### ✅ Premier League App (Java)
-### ✅ TestBankAccount (Java)
-### ✅ Interactive Logic Circuits Simulator  
-
----
-
-# ✅ 🤝 Open to Collaboration In
+# 🤝 Open to Collaboration In
 - Tech & STEM education  
 - Community impact initiatives  
 - Engineering & digital projects  
@@ -122,7 +111,7 @@ A learning platform offering accessible resources, STEM tools, and academic/care
 
 ---
 
-# ✅ 🔗 Connect With Me
+#  🔗 Connect With Me
 
 **LinkedIn:** www.linkedin.com/in/gervaismboninkunda  
 **Email:** mboninkundawelcome@gmail.com  
