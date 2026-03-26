@@ -1,119 +1,143 @@
+<h1 align="center">👋 Hi, I’m Gervais Mboninkunda</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:2ecc71&height=250&section=header&text=Gervais%20Mboninkunda&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+Computer Engineering Student | Tech Innovator | Youth Empowerment Advocate
 </p>
 
-<h3 align="center"> Gtech SkillsHub Co-Founder | Computer Engineering Student | Youth Empowerment Advocate</h3>
-
 <p align="center">
-I build engineering solutions, digital empowerment tools, and educational platforms that expand opportunities for underserved youth across Africa.
+I build technology and learning tools that increase access to education, skills, and opportunities for young people—especially in underserved communities.  
+Through initiatives like <strong>GTech SkillsHub</strong> and <strong>ElevateGTech</strong>, I design practical solutions that help students learn, grow, and access digital resources.
 </p>
 
 ---
 
-##  🚀 Mission
-Building accessible technology and modern learning systems that empower young people across Africa.
+## 🚀 Mission
+Creating accessible technology and learning platforms that empower youth across Africa.
 
-I develop digital platforms, engineering tools, and youth-focused initiatives that create pathways to education, innovation, and global opportunities.
+I believe access to knowledge and digital tools transforms lives.  
+My work focuses on expanding educational technology, digital literacy, and engineering learning opportunities for students who traditionally lack these resources.
 
 ---
 
-## 🌍 About My Work
+## 🏫 About My Work
 
 ### **GTech SkillsHub**
-A digital empowerment initiative teaching youth essential tech and professional skills.
+An initiative that equips youth with foundational digital skills and access to learning opportunities.
 
 ### **ElevateGTech**
-A learning platform offering accessible resources, scholarship application tools, and academic/career guidance.
+A platform offering academic support, digital tools, and practical learning resources.
 
- Hands-on circuit/electronics prototyping  
+### **Engineering & Academic Projects**
+- Water Level Detection System  
+- Logic Circuit Simulations (Konva.js + JavaScript)  
+- Java-based academic systems  
+- Engineering fundamentals and prototyping  
+- Python data analysis projects  
 
+---
 
+## 🎯 Impact Focus
+- Expanding digital literacy for underserved youth  
+- Developing tech-learning platforms with practical impact  
+- Supporting students through engineering and academic tutoring  
+- Promoting problem‑solving, innovation, and hands-on learning  
+- Building accessible educational technology  
 
-#  🛠️ Tech Stack
+---
+
+## 💡 What Drives Me
+- Building systems that make learning accessible  
+- Improving digital and engineering education  
+- Community-centered innovation  
+- Youth empowerment through technology  
+- Creating sustainable platforms for long-term impact  
+
+---
+
+# 💻 Tech Stack
 
 ## **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
+Python • Java • C++ • MATLAB • SQL
 
 ## **Frameworks & Tools**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005CFF?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
-
-
-![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
-![Konva.js](https://img.shields.io/badge/Konva.js-68A063?style=for-the-badge&logo=javascript&logoColor=white)
-
----
+NumPy • Pandas • Matplotlib • Seaborn  
+Flask *(beginner)* • Node.js *(beginner)* • PyTest *(basic)*  
+LaTeX • Overleaf • Konva.js  
 
 ## **Embedded Systems & Electronics**
-- Arduino  
-- Proteus  
-- TinkerCAD  
-- Sensors & Microcontrollers  
-- Circuit design (analog & digital)  
-
----
+Arduino • Proteus • TinkerCAD  
+Sensors • Microcontrollers • Circuit Design  
 
 ## **Cloud & DevOps**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
+GitHub Actions  
+Google Cloud *(beginner)* • Firebase *(beginner)* • Docker *(beginner)*  
 
 ## **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+SQL • PostgreSQL *(beginner)* • SQLite *(beginner)*  
 
 ---
 
-#  📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mboni777&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mboni777&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mboni777" />
-</p>
-
-
-
-# 🤝 Open to Collaboration In
-- Tech & STEM education  
-- Community impact initiatives  
-- Engineering & digital projects  
-- Open-source work  
-- Youth empowerment  
+# 🧩 Specializations
+Digital Literacy • Educational Technology • Circuit Design  
+Engineering Support • Data Analysis • Platform Development  
 
 ---
 
-#  🔗 Connect With Me
+# 📊 GitHub Activity & Stats
 
+### GitHub Stats
+<p>
+https://github-readme-stats.vercel.app/api?username=Mboni777&show_icons=true
+</p>
+
+### Top Languages
+<p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=Mboni777&layout=compact
+</p>
+
+### GitHub Streak
+<p>
+https://github-readme-streak-stats.herokuapp.com/?user=Mboni777
+</p>
+
+---
+
+# 🔍 Current Focus
+- Improving engineering + learning projects  
+- Expanding GTech SkillsHub  
+- Building accessible digital platforms  
+- Enhancing technical and academic support tools  
+
+---
+
+# 🌍 Impact & Leadership
+✔ Supporting students through digital learning  
+✔ Building learning tools with real-world use  
+✔ Helping youth access practical tech skills  
+✔ Creating platforms that open opportunities  
+
+---
+
+# 🤝 Open to Collaboration
+- Digital education initiatives  
+- Open-source learning tools  
+- Community impact programs  
+- Engineering & technology projects  
+
+---
+
+# 🌐 Connect With Me
 **LinkedIn:** www.linkedin.com/in/gervaismboninkunda  
 **Email:** mboninkundawelcome@gmail.com  
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:1abc9c&height=150&section=footer" />
-</p>
+# 📌 Pinned
+(*Make sure to pin these manually using GitHub’s “Customize your pins” button*)
+
+- Morocco CO₂ Emission Analysis  
+- logic-circuit-simulator  
+- Ashesi Health Kiosk Lab  
+- Premier League App  
+- TestBankAccount  
+- Interactive Logic Circuits Simulator  
